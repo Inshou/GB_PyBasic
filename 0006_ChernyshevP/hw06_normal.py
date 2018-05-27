@@ -121,7 +121,7 @@ def print_teachers(teachers):
     print(f'\nСписок преподавателей {tclass}:')
     for teacher in teachers:
         if tclass in teacher.tclasses or tclass == '':
-            print(f'{teacher.id} {teacher.full_name}')
+            print(f'\t{teacher.id} {teacher.full_name} - {teacher.desceplines}')
     print()
 
 

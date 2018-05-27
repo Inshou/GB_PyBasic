@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a44ee07c-6023-4155-ba47-7a6cd13fbc0a" name="Default" comment="" />
+    <list default="true" id="a44ee07c-6023-4155-ba47-7a6cd13fbc0a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/0006_ChernyshevP/hw06_normal.py" beforeDir="false" afterPath="$PROJECT_DIR$/0006_ChernyshevP/hw06_normal.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="hw06_normal.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0006_ChernyshevP/hw06_normal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1138">
-              <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="123" selection-end-column="51" />
+            <state relative-caret-position="111">
+              <caret line="123" column="22" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -53,6 +55,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -71,6 +76,7 @@
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -175,7 +181,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="hw06_normal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hw06_normal" type="PythonConfigurationType" factoryName="Python">
       <module name="GB_PyBasic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,7 +207,6 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hw06_normal" />
         <item itemvalue="Python.hw06_easy" />
         <item itemvalue="Python.hw05_normal" />
         <item itemvalue="Python.hw05_easy" />
@@ -227,9 +232,9 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36150235" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.64162755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -453,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0006_ChernyshevP/hw06_normal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1138">
-          <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="123" selection-end-column="51" />
+        <state relative-caret-position="111">
+          <caret line="123" column="22" selection-start-line="123" selection-start-column="22" selection-end-line="123" selection-end-column="22" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
