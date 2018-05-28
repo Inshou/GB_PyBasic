@@ -4,5 +4,8 @@
 0004_ChernyshevP.zip
 0005_ChernyshevP.zip
 Python_lessons_basic-master.zip
-
 *.xml
+.idea/workspace.xml
+.idea/*
+.idea/
+.idea
