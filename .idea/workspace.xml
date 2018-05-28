@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a44ee07c-6023-4155-ba47-7a6cd13fbc0a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/0001_ChernyshevP.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0002_ChernyshevP.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0003_ChernyshevP.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0004_ChernyshevP.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0005_ChernyshevP.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_lessons_basic-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -239,7 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24304539" />
       <window_info anchor="bottom" id="TODO" order="6" />
