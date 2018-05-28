@@ -41,7 +41,7 @@ class Man:
 
 class Student(Man):
     def __init__(self, id, first_name, second_name, middle_name, sex, parents, tclass, date_of_birth='0.00.0000'):
-         Man.__init__(self, id, first_name, second_name, middle_name, sex, parents, date_of_birth)
+         super().__init__(id, first_name, second_name, middle_name, sex, parents, date_of_birth)
          self.tclass = tclass
 
 
